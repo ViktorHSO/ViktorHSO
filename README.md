@@ -30,9 +30,11 @@ Estou no 6º período do curso de **Sistemas de Informação** na **UNIRIOS**, e
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViktorHSO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="estatísticas do github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorHSO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="linguagens mais usadas" />
+  <img height="165" src="./profile/stats.svg" alt="estatísticas do github" />
+  <img height="165" src="./profile/top-langs.svg" alt="linguagens mais usadas" />
 </p>
 
 <p align="center">
