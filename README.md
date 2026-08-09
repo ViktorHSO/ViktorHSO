@@ -24,11 +24,9 @@ Estou no 6º período do curso de **Sistemas de Informação** na **UNIRIOS**, e
 
 <p align="left">
   <a href="https://github.com/ViktorHSO/biblioteca-de-mangas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktorHSO&repo=biblioteca-de-mangas&theme=tokyonight&hide_border=true" alt="Biblioteca de Mangás" />
+    <img src="./profile/pin-biblioteca-mangas.svg" alt="Biblioteca de Mangás" />
   </a>
 </p>
-
-## 📊 Estatísticas do GitHub
 
 ## 📊 Estatísticas do GitHub
 
