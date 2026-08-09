@@ -6,7 +6,7 @@
 
 Olá! Me chamo **Victor Hugo Sousa Oliveira**, tenho 25 anos, nasci em **Paulo Afonso - BA** e atualmente moro em **Canindé de São Francisco - SE**.
 
-Estou no 6º período do curso de **Sistemas de Informação** na **UNIRIOS**, e sou apaixonado por tecnologia e programação, sempre buscando aprender e evoluir como desenvolvedor.
+Estou no 6º período do curso de **Sistemas de Informação** na **UNIRIOS**, e sou apaixonado por tecnologia e programação, sempre buscando aprender e evoluir como desenvolvedor. Atualmente buscando minha primeira oportunidade de estágio na área.
 
 <p align="left">
   <a href="https://github.com/ViktorHSO">
@@ -20,15 +20,23 @@ Estou no 6º período do curso de **Sistemas de Informação** na **UNIRIOS**, e
   <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" alt="linguagens e tecnologias" />
 </p>
 
+## 📌 Projeto em destaque
+
+<p align="left">
+  <a href="https://github.com/ViktorHSO/biblioteca-de-mangas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViktorHSO&repo=biblioteca-de-mangas&theme=tokyonight&hide_border=true" alt="Biblioteca de Mangás" />
+  </a>
+</p>
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViktorHSO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="estatísticas do github" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViktorHSO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViktorHSO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="estatísticas do github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorHSO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViktorHSO&theme=tokyonight&hide_border=true" alt="streak de commits" />
+  <img src="https://streak-stats.demolab.com/?user=ViktorHSO&theme=tokyonight&hide_border=true" alt="streak de commits" />
 </p>
 
 <p align="center">
