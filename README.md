@@ -36,10 +36,6 @@ Estou no 6º período do curso de **Sistemas de Informação** na **UNIRIOS**, e
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ViktorHSO&theme=tokyonight&hide_border=true" alt="streak de commits" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViktorHSO&theme=tokyo-night&hide_border=true" alt="gráfico de atividade" />
 </p>
 
