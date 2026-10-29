@@ -1,40 +1,40 @@
-<h1 align="center">👨‍💻 Victor Hugo Sousa Oliveira</h1>
+# Victor Hugo Sousa Oliveira
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=05D4E0&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia+e+Programa%C3%A7%C3%A3o;Java+%7C+Python+%7C+JavaScript+%7C+MySQL" alt="Typing SVG" />
-</p>
+Estudante de Sistemas de Informação na UNIRIOS, com formatura prevista para 2027. Moro em Canindé de São Francisco (SE) e procuro meu primeiro estágio em desenvolvimento.
 
-Olá! Me chamo **Victor Hugo Sousa Oliveira**, tenho 25 anos, nasci em **Paulo Afonso - BA** e atualmente moro em **Canindé de São Francisco - SE**.
+Tenho feito projetos de back-end com Python e FastAPI e de front-end com React, TypeScript e JavaScript. Os três abaixo são os que mais representam o que sei fazer hoje.
 
-Estou no 6º período do curso de **Sistemas de Informação** na **UNIRIOS**, e sou apaixonado por tecnologia e programação, sempre buscando aprender e evoluir como desenvolvedor. Atualmente buscando minha primeira oportunidade de estágio na área.
+## Projetos
 
-<p align="left">
-  <a href="https://github.com/ViktorHSO">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/ViktorHSO?color=05D4E0&label=Seguidores&logo=person&logoColor=white&style=for-the-badge" alt="seguidores no github" />
-  </a>
-</p>
+### [Biblioteca de Mangás](https://github.com/ViktorHSO/biblioteca-de-mangas)
 
-## 🚀 Linguagens e Tecnologias
+API REST para organizar uma coleção de mangás: cadastro de obras e capítulos, busca com filtros combináveis, paginação, ranking por visualizações e login de administrador com JWT. Tem testes automatizados com pytest e documentação pelo Swagger. O front-end em React está em construção.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" alt="linguagens e tecnologias" />
-</p>
+Python, FastAPI, SQLAlchemy, MySQL, React
 
-## 📌 Projeto em destaque
+### [Diário da Grand Line](https://viktorhso.github.io/site-onepiece/)
 
-<p align="left">
-  <a href="https://github.com/ViktorHSO/biblioteca-de-mangas">
-    <img src="./profile/pin-biblioteca-mangas.svg" alt="Biblioteca de Mangás" />
-  </a>
-</p>
+Enciclopédia de One Piece que consome a API One Piece: 786 personagens em cartazes de procurado, tripulações, Frutas do Diabo, espadas, um ranking de recompensas e uma página para criar o próprio cartaz. Funciona em português e inglês. Começou como trabalho de Introdução à Tecnologia Web.
 
-## 📊 Estatísticas do GitHub
+HTML, CSS, JavaScript
 
-<p align="center">
-  <img height="165" src="./profile/stats.svg" alt="estatísticas do github" />
-  <img height="165" src="./profile/top-langs.svg" alt="linguagens mais usadas" />
-</p>
+[Ver o site](https://viktorhso.github.io/site-onepiece/) | [Código](https://github.com/ViktorHSO/site-onepiece)
 
----
+<a href="https://viktorhso.github.io/site-onepiece/"><img src="https://raw.githubusercontent.com/ViktorHSO/site-onepiece/main/docs/inicio.jpg" width="520" alt="Página inicial do Diário da Grand Line"></a>
 
-<p align="center">📫 Me encontre em: <a href="https://github.com/ViktorHSO">GitHub</a></p>
+### [FinanceFlow](https://github.com/Victor-Hugo-Guilherme-Matheus/Finance-Flow)
+
+Aplicativo de finanças pessoais pensado para celular, feito em grupo na disciplina de Desenvolvimento Mobile. Registra receitas, despesas e transferências, acompanha metas com conquistas, converte moedas em tempo real e tem tema escuro e versão em inglês.
+
+React, TypeScript, Tailwind CSS, Firebase
+
+## Tecnologias
+
+- **Linguagens:** Python, JavaScript, TypeScript, Java, SQL
+- **Front-end:** HTML, CSS, React, Tailwind CSS
+- **Back-end e dados:** FastAPI, SQLAlchemy, MySQL, Firebase
+- **Ferramentas:** Git, GitHub, VS Code
+
+## Contato
+
+victorhugo_souza99@live.com
