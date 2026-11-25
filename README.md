@@ -6,11 +6,13 @@ Tenho feito projetos de back-end com Python e FastAPI, de front-end com React, T
 
 ## Projetos
 
-### [Biblioteca de Mangás](https://github.com/ViktorHSO/biblioteca-de-mangas)
+### [Biblioteca de Mangás](https://biblioteca-de-mangas.onrender.com)
 
-Aplicação completa para catalogar e ler mangás. A API REST em FastAPI tem cadastro de obras e capítulos, envio de capas e páginas, busca com filtros combináveis, paginação, ranking por visualizações e login de administrador com JWT, com testes automatizados em pytest. O site em React tem catálogo, ranking, busca rápida e leitor de capítulos.
+Aplicação completa para catalogar e ler mangás. A API REST em FastAPI tem cadastro de obras e capítulos, envio de capas e páginas, busca com filtros combináveis, paginação, ranking por visualizações e login de administrador com JWT, com testes automatizados em pytest rodando no GitHub Actions. O site em React tem catálogo, ranking, busca rápida e leitor de capítulos. Roda com Docker Compose e está publicado no Render com banco MySQL no TiDB Cloud.
 
-Python, FastAPI, SQLAlchemy, MySQL, React, Tailwind CSS
+Python, FastAPI, SQLAlchemy, MySQL, React, Tailwind CSS, Docker, GitHub Actions
+
+[Ver o site](https://biblioteca-de-mangas.onrender.com) | [API (Swagger)](https://biblioteca-de-mangas-api.onrender.com/docs) | [Código](https://github.com/ViktorHSO/biblioteca-de-mangas)
 
 ### [PokéRadar](https://viktorhso.github.io/pokeradar/)
 
@@ -44,7 +46,7 @@ React, TypeScript, Tailwind CSS, Firebase
 - **Front-end:** HTML, CSS, React, Tailwind CSS
 - **Mobile:** React Native, Expo
 - **Back-end e dados:** FastAPI, SQLAlchemy, MySQL, Firebase
-- **Ferramentas:** Git, GitHub, GitHub Actions, VS Code
+- **Ferramentas:** Git, GitHub, GitHub Actions, Docker, VS Code
 
 ## Contato
 
