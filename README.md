@@ -2,15 +2,25 @@
 
 Estudante de Sistemas de Informação na UNIRIOS, com formatura prevista para 2027. Moro em Canindé de São Francisco (SE) e procuro meu primeiro estágio em desenvolvimento.
 
-Tenho feito projetos de back-end com Python e FastAPI e de front-end com React, TypeScript e JavaScript. Os três abaixo são os que mais representam o que sei fazer hoje.
+Tenho feito projetos de back-end com Python e FastAPI, de front-end com React, TypeScript e JavaScript, e mobile com React Native. Os quatro abaixo são os que mais representam o que sei fazer hoje.
 
 ## Projetos
 
 ### [Biblioteca de Mangás](https://github.com/ViktorHSO/biblioteca-de-mangas)
 
-API REST para organizar uma coleção de mangás: cadastro de obras e capítulos, busca com filtros combináveis, paginação, ranking por visualizações e login de administrador com JWT. Tem testes automatizados com pytest e documentação pelo Swagger. O front-end em React está em construção.
+Aplicação completa para catalogar e ler mangás. A API REST em FastAPI tem cadastro de obras e capítulos, envio de capas e páginas, busca com filtros combináveis, paginação, ranking por visualizações e login de administrador com JWT, com testes automatizados em pytest. O site em React tem catálogo, ranking, busca rápida e leitor de capítulos.
 
-Python, FastAPI, SQLAlchemy, MySQL, React
+Python, FastAPI, SQLAlchemy, MySQL, React, Tailwind CSS
+
+### [PokéRadar](https://viktorhso.github.io/pokeradar/)
+
+Pokédex em React Native e Expo que consome a PokéAPI, com versão web publicada pelo GitHub Actions. Mostra os 1025 Pokémon com busca, filtros por tipo e geração, favoritos e detalhes em abas com atributos, cadeia de evolução e fraquezas. Começou como atividade de aula.
+
+React Native, Expo, JavaScript, GitHub Actions
+
+[Ver o site](https://viktorhso.github.io/pokeradar/) | [Código](https://github.com/ViktorHSO/pokeradar)
+
+<a href="https://viktorhso.github.io/pokeradar/"><img src="https://raw.githubusercontent.com/ViktorHSO/pokeradar/main/docs/screenshots/inicio.png" width="250" alt="Tela inicial do PokéRadar"></a>
 
 ### [Diário da Grand Line](https://viktorhso.github.io/site-onepiece/)
 
@@ -32,8 +42,9 @@ React, TypeScript, Tailwind CSS, Firebase
 
 - **Linguagens:** Python, JavaScript, TypeScript, Java, SQL
 - **Front-end:** HTML, CSS, React, Tailwind CSS
+- **Mobile:** React Native, Expo
 - **Back-end e dados:** FastAPI, SQLAlchemy, MySQL, Firebase
-- **Ferramentas:** Git, GitHub, VS Code
+- **Ferramentas:** Git, GitHub, GitHub Actions, VS Code
 
 ## Contato
 
