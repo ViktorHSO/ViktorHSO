@@ -2,9 +2,19 @@
 
 Estudante de Sistemas de Informação na UNIRIOS, com formatura prevista para 2027. Moro em Canindé de São Francisco (SE) e procuro meu primeiro estágio em desenvolvimento.
 
-Tenho feito projetos de back-end com Python e FastAPI, de front-end com React, TypeScript e JavaScript, e mobile com React Native. Os quatro abaixo são os que mais representam o que sei fazer hoje.
+Tenho feito projetos de back-end com Java e Spring Boot e com Python e FastAPI, de front-end com React, TypeScript e JavaScript, e mobile com React Native. Os três abaixo são os que mais representam o que sei fazer hoje.
 
 ## Projetos
+
+### [API de Tarefas](https://tarefas-viktorhso.onrender.com)
+
+API REST em Java e Spring Boot para gerenciar tarefas pessoais, com cadastro, login por token JWT, prioridades, prazos, filtros, paginação e um resumo do que está atrasado. Cada usuário só enxerga as próprias tarefas. O banco é versionado com Flyway e há testes de integração rodando no GitHub Actions. O site em React e TypeScript transforma cada tarefa num número de peito de corrida e tem painel de progresso. Roda com Docker Compose e está publicado no Render com banco MySQL no TiDB Cloud.
+
+Java, Spring Boot, Spring Security, JWT, MySQL, Flyway, React, TypeScript, Tailwind CSS, Docker, GitHub Actions
+
+[Ver o site](https://tarefas-viktorhso.onrender.com) | [API (Swagger)](https://api-tarefas-viktorhso.onrender.com/swagger-ui.html) | [Código](https://github.com/ViktorHSO/api-tarefas)
+
+<a href="https://tarefas-viktorhso.onrender.com"><img src="https://raw.githubusercontent.com/ViktorHSO/api-tarefas/main/docs/inicio.png" width="520" alt="Página inicial da API de Tarefas"></a>
 
 ### [Biblioteca de Mangás](https://biblioteca-de-mangas.onrender.com)
 
@@ -24,28 +34,12 @@ React Native, Expo, JavaScript, GitHub Actions
 
 <a href="https://viktorhso.github.io/pokeradar/"><img src="https://raw.githubusercontent.com/ViktorHSO/pokeradar/main/docs/screenshots/inicio.png" width="250" alt="Tela inicial do PokéRadar"></a>
 
-### [Diário da Grand Line](https://viktorhso.github.io/site-onepiece/)
-
-Enciclopédia de One Piece que consome a API One Piece: 786 personagens em cartazes de procurado, tripulações, Frutas do Diabo, espadas, um ranking de recompensas e uma página para criar o próprio cartaz. Funciona em português e inglês. Começou como trabalho de Introdução à Tecnologia Web.
-
-HTML, CSS, JavaScript
-
-[Ver o site](https://viktorhso.github.io/site-onepiece/) | [Código](https://github.com/ViktorHSO/site-onepiece)
-
-<a href="https://viktorhso.github.io/site-onepiece/"><img src="https://raw.githubusercontent.com/ViktorHSO/site-onepiece/main/docs/inicio.jpg" width="520" alt="Página inicial do Diário da Grand Line"></a>
-
-### [FinanceFlow](https://github.com/Victor-Hugo-Guilherme-Matheus/Finance-Flow)
-
-Aplicativo de finanças pessoais pensado para celular, feito em grupo na disciplina de Desenvolvimento Mobile. Registra receitas, despesas e transferências, acompanha metas com conquistas, converte moedas em tempo real e tem tema escuro e versão em inglês.
-
-React, TypeScript, Tailwind CSS, Firebase
-
 ## Tecnologias
 
 - **Linguagens:** Python, JavaScript, TypeScript, Java, SQL
 - **Front-end:** HTML, CSS, React, Tailwind CSS
 - **Mobile:** React Native, Expo
-- **Back-end e dados:** FastAPI, SQLAlchemy, MySQL, Firebase
+- **Back-end e dados:** Spring Boot, Spring Security, FastAPI, SQLAlchemy, MySQL, Flyway, Firebase
 - **Ferramentas:** Git, GitHub, GitHub Actions, Docker, VS Code
 
 ## Contato
