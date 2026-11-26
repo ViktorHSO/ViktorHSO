@@ -24,20 +24,22 @@ Python, FastAPI, SQLAlchemy, MySQL, React, Tailwind CSS, Docker, GitHub Actions
 
 [Ver o site](https://biblioteca-de-mangas.onrender.com) | [API (Swagger)](https://biblioteca-de-mangas-api.onrender.com/docs) | [Código](https://github.com/ViktorHSO/biblioteca-de-mangas)
 
-### [PokéRadar](https://viktorhso.github.io/pokeradar/)
+<a href="https://biblioteca-de-mangas.onrender.com"><img src="https://raw.githubusercontent.com/ViktorHSO/biblioteca-de-mangas/main/docs/screenshots/home.png" width="520" alt="Página inicial da Biblioteca de Mangás"></a>
 
-Pokédex em React Native e Expo que consome a PokéAPI, com versão web publicada pelo GitHub Actions. Mostra os 1025 Pokémon com busca, filtros por tipo e geração, favoritos e detalhes em abas com atributos, cadeia de evolução e fraquezas. Começou como atividade de aula.
+### [Diário da Grand Line](https://viktorhso.github.io/site-onepiece/)
 
-React Native, Expo, JavaScript, GitHub Actions
+Enciclopédia de One Piece em HTML, CSS e JavaScript puro, sem framework, que consome a API One Piece. Mostra os 786 personagens em cartazes de procurado com busca e filtros, ranking de recompensas, tripulações, Frutas do Diabo, espadas e facções, e gera o seu próprio cartaz para baixar. A abertura é um cenário em camadas SVG com parallax, e a rota das sagas é uma carta náutica que se desenha conforme a página rola, com tudo respeitando "reduzir movimento". Tem português e inglês e está publicado no GitHub Pages. Começou como trabalho de Introdução à Tecnologia Web.
 
-[Ver o site](https://viktorhso.github.io/pokeradar/) | [Código](https://github.com/ViktorHSO/pokeradar)
+HTML, CSS, JavaScript, SVG, consumo de API REST, GitHub Pages
 
-<a href="https://viktorhso.github.io/pokeradar/"><img src="https://raw.githubusercontent.com/ViktorHSO/pokeradar/main/docs/screenshots/inicio.png" width="250" alt="Tela inicial do PokéRadar"></a>
+[Ver o site](https://viktorhso.github.io/site-onepiece/) | [Código](https://github.com/ViktorHSO/site-onepiece)
+
+<a href="https://viktorhso.github.io/site-onepiece/"><img src="https://raw.githubusercontent.com/ViktorHSO/site-onepiece/main/docs/inicio.jpg" width="520" alt="Página inicial do Diário da Grand Line"></a>
 
 ## Tecnologias
 
 - **Linguagens:** Python, JavaScript, TypeScript, Java, SQL
-- **Front-end:** HTML, CSS, React, Tailwind CSS
+- **Front-end:** HTML, CSS, SVG, React, Tailwind CSS
 - **Mobile:** React Native, Expo
 - **Back-end e dados:** Spring Boot, Spring Security, FastAPI, SQLAlchemy, MySQL, Flyway, Firebase
 - **Ferramentas:** Git, GitHub, GitHub Actions, Docker, VS Code
