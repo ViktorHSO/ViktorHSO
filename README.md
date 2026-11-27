@@ -28,9 +28,9 @@ Python, FastAPI, SQLAlchemy, MySQL, React, Tailwind CSS, Docker, GitHub Actions
 
 ### [Diário da Grand Line](https://viktorhso.github.io/site-onepiece/)
 
-Enciclopédia de One Piece em HTML, CSS e JavaScript puro, sem framework, que consome a API One Piece. Mostra os 786 personagens em cartazes de procurado com busca e filtros, ranking de recompensas, tripulações, Frutas do Diabo, espadas e facções, e gera o seu próprio cartaz para baixar. A abertura é um cenário em camadas SVG com parallax, e a rota das sagas é uma carta náutica que se desenha conforme a página rola, com tudo respeitando "reduzir movimento". Tem português e inglês e está publicado no GitHub Pages. Começou como trabalho de Introdução à Tecnologia Web.
+Enciclopédia de One Piece em HTML, CSS e JavaScript puro, sem framework, que consome a API One Piece. Mostra os 786 personagens em cartazes de procurado com busca e filtros, ranking de recompensas, tripulações, Frutas do Diabo, espadas e facções, e tem uma oficina onde você monta o próprio cartaz em canvas, com papel envelhecido, fontes antigas e foto ajustável, e baixa em PNG. A abertura é um cenário em camadas SVG com parallax, e a rota das sagas é uma carta náutica que se desenha conforme a página rola, com tudo respeitando "reduzir movimento". Tem português e inglês e está publicado no GitHub Pages.
 
-HTML, CSS, JavaScript, SVG, consumo de API REST, GitHub Pages
+HTML, CSS, JavaScript, SVG, Canvas, consumo de API REST, GitHub Pages
 
 [Ver o site](https://viktorhso.github.io/site-onepiece/) | [Código](https://github.com/ViktorHSO/site-onepiece)
 
